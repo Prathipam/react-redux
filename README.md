@@ -13,7 +13,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 # Back end repo setup
 
-Used json-server package for back-end api call
-Please run the command `"json-server --watch src/api/db.json --port 5000"` in the terminal
-Port number is hardcoded in src/service/userService
-If the port is changed plz update the url in the above mentioned file
+Used json-server package for back-end api call.\
+Please run the command `"json-server --watch src/api/db.json --port 5000"` in the terminal.\
+Port number is hardcoded in src/service/userService.\
+If the port is changed plz update the url in the above mentioned file.\
